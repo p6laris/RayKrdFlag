@@ -76,5 +76,5 @@ int main(void) {
     }
 
     CloseWindow();
-    return 0;                          // Return success
+    return 0;                          
 }
